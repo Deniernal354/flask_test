@@ -1,0 +1,10 @@
+.today-button {
+    font-size: 100%;
+    vertical-align: middle;
+    padding-right: 5px;
+    padding-left: 5px;
+    color: white;
+    background: blue;
+    border: 2px solid cornflowerblue;
+    border-radius: 5px;
+};
